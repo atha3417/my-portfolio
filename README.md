@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! Here, you'll find some of the projects I've worked on. I specialize in various fields such as artificial intelligence, software development, and creative solutions.
 
-## Check out my other repositories:
+## Check out my projects:
 
 1. [Project 1: Short URL Generator](https://github.com/atha3417/short-url-generator)
    - A simple yet powerful application that allows users to create shortened versions of long URLs for easier sharing.
