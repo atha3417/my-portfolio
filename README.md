@@ -13,6 +13,10 @@ Welcome to my portfolio repository! Here, you'll find some of the projects I've 
 3. [Project 3: Point of Sale Application](https://github.com/atha3417/pos)
    - A comprehensive Point of Sale (POS) system built for retail businesses. It manages sales, inventory, and customer data with a user-friendly interface, ensuring smooth and efficient transactions.
 
+4. [Project 4: API Warung Informatika]
+   - As junior staff members at HMDTIF, my colleague and I developed an API for the Warung Informatika website using Go and PostgreSQL. The API supports CRUD functionality with an efficient structure and optimal performance.
+
+
 Feel free to explore these projects and let me know your thoughts!
 
 ---
